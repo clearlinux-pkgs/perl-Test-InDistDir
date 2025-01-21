@@ -7,7 +7,7 @@
 #
 Name     : perl-Test-InDistDir
 Version  : 1.112071
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MITHALDU/Test-InDistDir-1.112071.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MITHALDU/Test-InDistDir-1.112071.tar.gz
 Summary  : 'test environment setup for development with IDE'
